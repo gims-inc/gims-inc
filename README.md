@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gims-inc
-- 👀 Interested in core 
+- 👀 Interested in core Software Development & Design
 - 🌱 Currently learning Python,C,JS
 - 📫 @gims4lyfe on Twitter
 
