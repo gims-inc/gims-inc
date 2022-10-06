@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gims-inc
 - 👀 Interested in core 
 - 🌱 Currently learning Python,C,JS
-- 📫 @gims4lyfe on ![fa-twitter](fa-twitter.svg)
+- 📫 @gims4lyfe on Twitter
 
 <!---
 gims-inc/gims-inc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
