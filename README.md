@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gims-inc
 - 👀 Interested in core Software Development & Design
-- 🌱 Currently solidifying Python,C,JS
+- 🌱 Python,C,JS,PHP
 - 📫 @gims4lyfe on Twitter
 
 <!---
